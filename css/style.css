@@ -3,3 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.box {
+    background-color: rgb(7, 123, 218);
+    margin: 0.1rem;
+    padding: 1rem;
+    text-align: center;
+    color: white;
+}
+
+.box-green {
+    background-color: green;
+    margin: 0.1rem;
+    padding: 1rem 0;
+    text-align: center;
+    color: white;
+}
